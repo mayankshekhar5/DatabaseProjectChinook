@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "60LuV1Rgt/ue2Msh5aN3kAGYgOEJ5NXSeSFzE5bWhH4sTYXvqAioUd5M5faf0rR1b4Tzv99drjemerRlcEoz8g==",
+  "success": true,
+  "projectFilePath": "/Users/mayankshekhar/Work/ADS-Playground/Projects/DatabaseProjectChinook/DatabaseProjectChinook.sqlproj",
+  "expectedPackageFiles": [
+    "/Users/mayankshekhar/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/Users/mayankshekhar/.nuget/packages/microsoft.netframework.referenceassemblies.net46/1.0.0/microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

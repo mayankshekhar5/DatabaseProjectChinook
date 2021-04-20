@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mayankshekhar/Work/ADS-Playground/Projects/DatabaseProjectChinook/DatabaseProjectChinook.sqlproj": {}
+  },
+  "projects": {
+    "/Users/mayankshekhar/Work/ADS-Playground/Projects/DatabaseProjectChinook/DatabaseProjectChinook.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mayankshekhar/Work/ADS-Playground/Projects/DatabaseProjectChinook/DatabaseProjectChinook.sqlproj",
+        "projectName": "DatabaseProjectChinook",
+        "projectPath": "/Users/mayankshekhar/Work/ADS-Playground/Projects/DatabaseProjectChinook/DatabaseProjectChinook.sqlproj",
+        "packagesPath": "/Users/mayankshekhar/.nuget/packages/",
+        "outputPath": "/Users/mayankshekhar/Work/ADS-Playground/Projects/DatabaseProjectChinook/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/mayankshekhar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

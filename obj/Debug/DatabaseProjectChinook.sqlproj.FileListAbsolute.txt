@@ -1,0 +1,9 @@
+/Users/mayankshekhar/Work/ADS-Playground/Projects/DatabaseProjectChinook/bin/Debug/DatabaseProjectChinook.dacpac
+/Users/mayankshekhar/Work/ADS-Playground/Projects/DatabaseProjectChinook/bin/Debug/DatabaseProjectChinook.dll
+/Users/mayankshekhar/Work/ADS-Playground/Projects/DatabaseProjectChinook/bin/Debug/DatabaseProjectChinook.pdb
+/Users/mayankshekhar/Work/ADS-Playground/Projects/DatabaseProjectChinook/obj/Debug/Model.xml
+/Users/mayankshekhar/Work/ADS-Playground/Projects/DatabaseProjectChinook/obj/Debug/refactor.xml
+/Users/mayankshekhar/Work/ADS-Playground/Projects/DatabaseProjectChinook/obj/Debug/postdeploy.sql
+/Users/mayankshekhar/Work/ADS-Playground/Projects/DatabaseProjectChinook/obj/Debug/predeploy.sql
+/Users/mayankshekhar/Work/ADS-Playground/Projects/DatabaseProjectChinook/obj/Debug/DatabaseProjectChinook.dll
+/Users/mayankshekhar/Work/ADS-Playground/Projects/DatabaseProjectChinook/obj/Debug/DatabaseProjectChinook.pdb
